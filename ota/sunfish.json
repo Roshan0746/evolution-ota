@@ -5,15 +5,15 @@
       "oem": "Google",
       "device": "sunfish",
       "filename": "EvolutionX-15.0-20250413-sunfish-v10.6.zip",
-      "download": "https://drive.google.com/uc?id=1xAgIcLyIXzSlXWE1uckSguCKpfMzp5U1&export=download",
+      "download": "https://downloads.sourceforge.net/project/custom-buildroshan/Evolution-X-15/12-04-2025/EvolutionX-15.0-20250413-sunfish-v10.6.zip",
       "timestamp": 1744434400,
       "md5": "e4be1fb313a9db62270f85a13e3542fd",
       "sha256": "e4be1fb313a9db62270f85a13e3542fd3f3874b5fef656f9adbc5066e1815c3e",
       "size": 2244406888,
       "version": "10.6",
-      "buildtype": "userdebug",
-      "paypal": "https://www.instagram.com/roshan_sagvekar?igsh=MTh1azdzbHZtamkyeA==",
+      "romtype": "Unofficial",
       "telegram": "https://t.me/RoshanGP4A",
+      "instagram": "https://www.instagram.com/roshan_sagvekar?igsh=MTh1azdzbHZtamkyeA==",
       "github": "RoshanGP4A",
       "initial_installation_images": []
     }
