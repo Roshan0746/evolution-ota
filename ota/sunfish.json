@@ -1,12 +1,12 @@
 {
-  "datetime": 1712880001,
-  "filename": "EvolutionX-15.0-20250412-sunfish-10.5-Unofficial.zip",
-  "id": "e4be1fb313a9db62270f85a13e3542fd3f3874b5fef656f9adbc5066e1815c3e",
+  "datetime": 1712966400,
+  "filename": "EvolutionX-15.0-20250413-sunfish-10.6-Unofficial.zip",
+  "id": "5f945eaa7ab52d46944d51b37434d5cdc94a5454b1676048110a42fc40d5021d",
   "romtype": "unofficial",
-  "size": 2244406888,
-  "url": "https://drive.google.com/uc?id=1xAgIcLyIXzSlXWE1uckSguCKpfMzp5U1&export=download",
+  "size": 282,
+  "url": "https://drive.google.com/uc?id=1e_5HsuVnahz9pTGy92cPr45_asmYUzXS&export=download",
   "version": "15.0",
   "device": "sunfish",
   "maintainer": "RoshanGP4A",
-  "changelog": "• April 2025 security patch\n• Kernel updates\n• Evolution X 10.5 features\n• Performance and UI improvements"
+  "changelog": "• Dummy OTA test build\n• Testing OTA updater functionality"
 }
