@@ -1,5 +1,11 @@
+# 2025-04-14
+• First OTA update
+• Synced with latest source  
+• Misc cleanup  
+
+# 2025-04-13
 • April 2025 security patch  
 • Kernel updates  
 • Evolution X 10.5 features  
-• Performance and UI improvements
-• OTA updater implement 
+• Performance and UI improvements  
+• OTA updater implement
